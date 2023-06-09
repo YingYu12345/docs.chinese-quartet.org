@@ -1,3 +1,6 @@
+## Introduction
+Certified RNA reference materials are useful for assessing the reliability of RNA-seq to detect intrinsically small biological differences in clinical settings such as molecular subtyping of diseases. As part of the Quartet Project for quality control and data integration of multiomics profiling, we establish four RNA reference materials derived from immortalized B-lymphoblastoid cell lines from four members of a monozygotic twin family. Additionally, we construct ratio-based transcriptome-wide datasets between two samples, providing cross-platform and cross-lab ‘ground truth’ references. Investigation of the intrinsic biological differences among the Quartet samples enabled sensitive assessment of cross-batch integration of transcriptomic measurements at the ratio level. The Quartet RNA reference materials combined with the ratio-based reference datasets can serve as unique resources for assessing and improving the quality of transcriptomic data in clinical and biological settings.
+
 ## Requirements for your data and metadata
 - [`Metadata Template` - Download the metadata template and prepare your metabata](./metadata_template.md)
 - [`Data Format` - Follow the data format requirements to prepare your genomics data](./omics_data_format.md)
